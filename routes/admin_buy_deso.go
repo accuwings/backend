@@ -3,7 +3,7 @@ package routes
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/deso-protocol/core/lib"
+	"github.com/accuwings/core/lib"
 	"io"
 	"net/http"
 )

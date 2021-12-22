@@ -7,7 +7,7 @@ import (
 	"net/http"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/deso-protocol/core/lib"
+	"github.com/accuwings/core/lib"
 )
 
 type GetReferralInfoForUserRequest struct {

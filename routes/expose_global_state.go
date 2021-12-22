@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/deso-protocol/core/lib"
+	"github.com/accuwings/core/lib"
 	"io/ioutil"
 	"net/http"
 	"reflect"

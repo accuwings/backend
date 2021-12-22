@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcutil"
-	"github.com/deso-protocol/core/lib"
+	"github.com/accuwings/core/lib"
 	"golang.org/x/crypto/sha3"
 	"os"
 )

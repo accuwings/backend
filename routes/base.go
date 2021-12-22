@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/deso-protocol/backend/apis"
+	"github.com/accuwings/backend/apis"
 	"io"
 	"io/ioutil"
 	"math/big"
@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/deso-protocol/core/lib"
+	"github.com/accuwings/core/lib"
 	"github.com/golang/glog"
 	"github.com/montanaflynn/stats"
 )

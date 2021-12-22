@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/deso-protocol/core/lib"
+	"github.com/accuwings/core/lib"
 	"github.com/pkg/errors"
 )
 

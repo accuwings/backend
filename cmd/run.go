@@ -5,8 +5,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/deso-protocol/backend/config"
-	coreCmd "github.com/deso-protocol/core/cmd"
+	"github.com/accuwings/backend/config"
+	coreCmd "github.com/accuwings/core/cmd"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 	"github.com/spf13/viper"

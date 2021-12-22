@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
-	"github.com/deso-protocol/core/lib"
+	"github.com/accuwings/core/lib"
 	"github.com/pkg/errors"
 	"io"
 	"net/http"

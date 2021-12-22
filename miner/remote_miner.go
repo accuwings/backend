@@ -5,14 +5,14 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
-	"github.com/deso-protocol/backend/routes"
-	"github.com/deso-protocol/core/lib"
+	"github.com/accuwings/backend/routes"
+	"github.com/accuwings/core/lib"
 	"io/ioutil"
 	"net/http"
 	"runtime"
 	"time"
 
-	"github.com/deso-protocol/go-deadlock"
+	"github.com/accuwings/go-deadlock"
 
 	"github.com/golang/glog"
 )

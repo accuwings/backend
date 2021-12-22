@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/deso-protocol/core/lib"
+	"github.com/accuwings/core/lib"
 )
 
 type AdminGetNFTDropRequest struct {

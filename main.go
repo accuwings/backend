@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/deso-protocol/backend/cmd"
+	"github.com/accuwings/backend/cmd"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"encoding/gob"
 	"encoding/json"
 	"fmt"
-	"github.com/deso-protocol/backend/countries"
+	"github.com/accuwings/backend/countries"
 	"io"
 	"io/ioutil"
 	"net/http"
@@ -19,7 +19,7 @@ import (
 	"github.com/sendgrid/sendgrid-go"
 	"github.com/sendgrid/sendgrid-go/helpers/mail"
 
-	"github.com/deso-protocol/core/lib"
+	"github.com/accuwings/core/lib"
 	"github.com/golang/glog"
 	"github.com/nyaruka/phonenumbers"
 	"github.com/pkg/errors"

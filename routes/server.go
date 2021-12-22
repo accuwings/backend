@@ -12,11 +12,11 @@ import (
 	"time"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/deso-protocol/backend/config"
+	"github.com/accuwings/backend/config"
 	"github.com/golang-jwt/jwt/v4"
 	"github.com/tyler-smith/go-bip39"
 
-	"github.com/deso-protocol/core/lib"
+	"github.com/accuwings/core/lib"
 	"github.com/dgraph-io/badger/v3"
 	"github.com/golang/glog"
 	"github.com/kevinburke/twilio-go"

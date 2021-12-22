@@ -1,16 +1,16 @@
-module github.com/deso-protocol/backend
+module github.com/accuwings/backend
 
 go 1.16
 
-replace github.com/deso-protocol/core => ../core/
+replace github.com/accuwings/core => ../core/
 
 require (
 	cloud.google.com/go/storage v1.15.0
 	github.com/btcsuite/btcd v0.21.0-beta
 	github.com/btcsuite/btcutil v1.0.2
 	github.com/davecgh/go-spew v1.1.1
-	github.com/deso-protocol/core v0.0.0-00010101000000-000000000000
-	github.com/deso-protocol/go-deadlock v1.0.0
+	github.com/accuwings/core v0.0.0-00010101000000-000000000000
+	github.com/accuwings/go-deadlock v1.0.0
 	github.com/dgraph-io/badger/v3 v3.2103.0
 	github.com/fatih/structs v1.1.0
 	github.com/gofrs/uuid v4.0.0+incompatible // indirect

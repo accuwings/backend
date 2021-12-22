@@ -11,7 +11,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/deso-protocol/core/lib"
+	"github.com/accuwings/core/lib"
 
 	"github.com/pkg/errors"
 
